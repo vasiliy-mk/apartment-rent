@@ -1,0 +1,526 @@
+
+
+
+h1{
+    font-size: 18px;
+    text-align: center;
+    color: #9a2b50;
+}
+
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+
+h4{
+    font-size: 14px;
+}
+
+
+
+
+
+body{
+    background-color: #3d5264;
+}
+
+html,body{
+    height:100%
+}
+
+
+
+
+.main-container{
+    min-height:90%
+}
+
+.navbar i{
+    font-size: 16px;
+    margin-right: 3px;
+    color: #999999;
+}
+
+.container{
+    background-color: #ffffff;
+}
+
+.main-navbar{
+    margin-top: 15px;
+}
+
+
+.apartment{
+    background-color: #f4f4f4;
+
+}
+
+.apartment .panel-body{
+     padding: 5px;
+ }
+
+.apartment .street{
+    font-size: 12px;
+
+}
+.apartment_ico{
+    width: 100%;
+ }
+.apartment .street{
+    margin-top: 5px;
+}
+.apartment .params{
+    font-size: 12px;
+}
+.apartment .params span{
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.apartment .price{
+    text-align: center;
+    line-height: 14px;
+    margin-top: 8px;
+}
+
+.apartment .price span{
+    color: #34cc40;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+
+
+.apartment-map{
+    height: 500px;
+    margin-bottom: 15px;
+    border: 1px solid #cccccc;
+
+}
+
+.apartment-amenities{
+    font-size: 14px;
+    line-height: 24px;
+
+}
+.apartment-amenities i{
+    font-size: 12px;
+}
+.apartment-price{
+    text-align: center;
+    font-weight: bold;
+    background-color: #fff1d9;
+    padding: 5px;
+    color: #19910f;
+}
+.apartment-price div {
+    font-size: 34px;
+    line-height: 32px;
+}
+
+
+
+.apartment h4{
+    text-align: center;
+    height: 35px;
+}
+
+.amenity_item{
+    float: left;
+    margin-right: 5px;
+}
+
+.hover-id{
+    font-size: 14px;
+    position: absolute ;
+    padding:0 5px 0 5px;
+    background-color: #f4f4f4;
+    display: none;
+}
+
+
+
+.glyphicon{
+    color: #ff8607;
+}
+
+.glyphicon-edit{
+    color: #ff8607 !important;
+    font-size: 24px;
+
+}
+
+
+
+
+h2{
+    font-size: 24px;
+}
+.divider{
+    margin: 10px 0;
+    background: url('/laravel5/public/images/bg_dash.png') center center repeat-x;
+
+}
+.divider h1{
+    font-size: 24px;
+    background-color: #ffffff;
+    color: #969696;
+    width: 145px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+footer .panel-default{
+    background-color: #3d3d3d;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+footer .contanct_phone{
+    float: right;
+}
+
+footer .copyright{
+    height: 35px;
+    padding-top: 5px;
+}
+
+
+.img-container{
+    float: left;
+    margin: 4px;
+}
+
+.upload-error{
+    color: #ff0000;
+    clear: both;
+}
+.upload-error .remove{
+    top:-5px;
+    position: relative;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+
+.img-container .icon{
+    width: 100px;
+    height: 80px;
+    cursor: move;
+    padding: 2px;
+    border: 1px solid #d5d5d5;
+}
+
+.img-container .remove{
+    top:-30px;
+    position: relative;
+    cursor: pointer;
+}
+
+
+.file-upload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.file-upload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=12);
+}
+.button-container{
+    text-align: center;
+    clear: both;
+}
+
+
+#preloader{
+     display: none;
+ }
+
+.preloader{
+ position: absolute;
+   left:50%;
+   top:50%
+}
+
+.option-btns{
+    width: 56px;
+}
+.option-btns i{
+    font-size: 18px;
+}
+
+.td-checkbox {
+    width: 30px;
+    text-align: center;
+}
+
+
+pre{
+    max-height: 400px;
+    margin-top: 5px;
+}
+
+
+
+.sortable tr{
+    cursor: move;
+}
+
+.border-top-none{
+    border-top: 0px ;
+}
+
+.slider-text a{
+    color: #ffffff;
+     font-size: 18px;
+    text-shadow: 1px 1px 2px black, 0 0 1em #828282; /* Параметры тени */
+
+}
+
+
+.hover-buttons{
+    position: absolute;
+    right: 0;
+    margin: 0 20px 0 0;
+}
+
+.hover-buttons-container .hover-buttons{
+    display: none;
+}
+
+
+
+
+.contact-phones li{
+    list-style-type: none;
+    font-size: 18px;
+    color: #e58d00;
+}
+
+.apartment .col-sm-3 {
+    padding-right:3px;
+    padding-left:3px;
+}
+
+
+.input-select  {
+  width: 67px;
+}
+
+.valign-middle td{
+    vertical-align: middle !important;
+}
+
+
+.select-action i{
+    font-size: 18px;
+    margin-left: 3px;
+    color: #b7b7b7;
+
+}
+.validation-error{
+    font-size:12px;
+    color: red
+}
+
+
+
+#captcha{
+    text-transform: uppercase;
+    width: 120px;
+    margin-top: 3px;
+}
+
+.pagination .active span{
+    background-color: #962a4b;
+}
+.pagination .active span:hover{
+    background-color: #b12f52;
+}
+
+.sidebar-menu{
+    background-color: #2f4050;
+
+}
+.sidebar-menu li{
+    list-style-type: none;
+}
+
+.sidebar-menu a{
+    color: #a7b1c2;
+    text-decoration: none;
+    padding: 10px 0 10px 25px;
+    width: 100%;
+    display: block;
+    font-size: 14px;
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+}
+.sidebar-menu ul {
+    margin-left: 0; /* Отступ слева в браузере IE и Opera */
+    padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+    padding-top: 5px;
+}
+
+.sidebar-menu a:hover{
+    color: #f9f9f9;
+}
+.sidebar-menu a:hover > i{
+    color: #f9f9f9;
+}
+
+.sidebar-menu li:hover{
+    background-color: #293846;
+ }
+
+.sidebar-menu i{
+    font-size: 14px;
+    margin-right: 10px;
+    color: #a7b1c2;
+
+}
+
+.sidebar-menu .active i,
+.sidebar-menu .active a{
+    background-color: #293846;
+    color: #f9f9f9;
+}
+.sidebar-menu .active a{
+    border-left: 4px solid #19aa8d;
+}
+
+.navbar-inverse {
+    background-color: #293846;
+}
+
+
+#phones_container input{
+  margin-bottom: 10px;
+}
+#phones_container i{
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#phones_container .remove-phone{
+ color: #da230c;
+}
+
+#phones_container .add-phone{
+    color: #6dbe56;
+}
+
+.reviews .review{
+    border-top:1px solid #cccccc;
+}
+
+
+.reviews i{
+    color: #bbbbbb;
+}
+
+.review-create {
+    margin:10px 0;
+}
+
+
+.reviews .user-name{
+    font-size: 14px;
+    font-weight: bold;
+    color: #494949;
+    margin-top: 10px;
+}
+
+.reviews .post-date{
+    font-size: 12px;
+    color: #747474;
+    margin-bottom: 5px;
+
+}
+.reviews .review-text{
+    margin-left: 5px;
+
+}
+
+#charsLeft{
+    font-size: 14px;
+}
+
+
+
+.reset-password{
+    margin-top: 3px;
+}
+.reset-password a{
+    color: #0D44A0;
+}
+
+.carousel{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
+@media only screen and  (max-width: 1000px) {
+    .photo-slider{
+        display: none;
+    }
+    .container{
+        width: 100%;
+    }
+
+}
+
+
+
+@media only screen and  (max-width: 768px) {
+    .photo-slider{
+        display: none;
+    }
+    .container{
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .apartment-block{
+        float: none;
+        width: 90%;
+        margin: 0 auto;
+        height: 100%;
+    }
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+
+    .photo-slider{
+        display: none;
+    }
+    .container{
+        width: 100%;
+    }
+}
+
+

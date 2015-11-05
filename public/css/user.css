@@ -1,0 +1,44 @@
+body{
+    background-color: #6c1e36;
+}
+.main-container, .divider h1{
+    background-color: #fffdfb;
+}
+.main-navbar{
+    background-color: #962a4b;
+}
+.main-navbar a, i{
+    color: #ffffff!important;
+}
+.main-navbar .glyphicon-log-in{
+    color: #bb3864 !important;
+}
+.main-navbar i:hover{
+    color: #ffffff !important;
+}
+
+
+.main-navbar .active a{
+
+    background-color: #e58d00!important;
+}
+
+footer .panel-default{
+    background-color: #962a4b;
+}
+
+.apartment, .hover-id{
+    background-color: #962a4b;
+    color: #e58d00;
+}
+
+.apartment a{
+    color: #ffefef;
+}
+.apartment .price{
+    color: #e5c334;
+}
+.apartment .price span{
+    color: #e58d00;
+}
+
